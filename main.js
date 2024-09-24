@@ -10,3 +10,5 @@ function area(num1){
 let areaTrapézio= function(num1,num2,num3) {
     return [num1+num2]*num3/2;
 }
+
+console.log(areaTrapézio(3,4,6));
