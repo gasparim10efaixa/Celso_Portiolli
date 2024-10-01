@@ -17,5 +17,6 @@ let nomes = ['Lucas','Joao P','Lorena','Maria','Arthur','Caio','Felipe B','Luiz'
 let i=0;
 while (i<10) {
     console.log(i);
+    console.log(nomes[i]);
     i=i+1;
 }
