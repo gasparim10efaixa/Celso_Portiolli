@@ -20,3 +20,8 @@ while (i<nomes.length) {
     console.log(nomes[i]);
     i=i+1;
 }
+for (let i = 0; i < nomes.length; i++) {
+    const element = nomes[i];
+    console.log(i)
+    console.log(nomes[i])
+}
