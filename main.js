@@ -15,7 +15,7 @@
 let nomes = ['Lucas','Joao P','Lorena','Maria','Arthur','Caio','Felipe B','Luiz','Nicolas','Julia K','Monise','Mel','Marina','Vinícius','Rhianne','João V','Laís','Gabriel','Aaron','Danilo']
 
 let i=0;
-while (i<20) {
+while (i<nomes.length) {
     console.log(i);
     console.log(nomes[i]);
     i=i+1;
